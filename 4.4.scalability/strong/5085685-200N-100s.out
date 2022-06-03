@@ -1,0 +1,57 @@
+ Proc division  20 20 16
+ Proc   0 numMeshes(x,y,z)  20 16 13
+
+ Final  step of damage accumulation
+ Time   99.999999999999986      totCycles        1576 CurrTau  0.30045804768136009      dt_kmc   9.3333926032182911E-005
+ DPA   4.5358182528493922E-005 DPA_low   1.3985447172649379E-005 Cascade                492734.00000000000      runTime   890.5034824830000     
+ commTime1   67.547215455003141      commTime2   120.699704898999002     
+
+
+ Deallocating defects and reactions
+ Deallocating memory: local meshes and ghost meshes
+ run time   890.5034824830000     
+ communication time   239.52444060700179     
+ allresuce time   51.053323183999865     
+ numCasTime   0.0000000000000000      casComm time  0.22419706899977143     
+ pointComm time   188.24692035400216     
+ commTime11   0.0000000000000000      commTime12   67.547215455003141      commTime21   68.874648320000105      commTime22   51.825056578998900     
+ commCount_1           0
+ number of boundary events    10881374
+ Proc division  20 20 16
+ Proc   0 numMeshes(x,y,z)  20 16 13
+
+ Final  step of damage accumulation
+ Time   99.999999999999986      totCycles        1568 CurrTau  0.27301849123942645      dt_kmc   4.1834090965745285E-005
+ DPA   4.5493870264771508E-005 DPA_low   1.4027284247282924E-005 Cascade                494208.00000000000      runTime   890.4048003880000     
+ commTime1   63.863273448000498      commTime2   122.780603447001454     
+
+
+ Deallocating defects and reactions
+ Deallocating memory: local meshes and ghost meshes
+ run time   890.4048003880000     
+ communication time   238.16376607100131     
+ allresuce time   51.385438865999504     
+ numCasTime   0.0000000000000000      casComm time  0.13445030999984908     
+ pointComm time   186.64387689500197     
+ commTime11   0.0000000000000000      commTime12   63.863273448000498      commTime21   66.107262951001260      commTime22   56.673340496000201     
+ commCount_1           0
+ number of boundary events    10901330
+ Proc division  20 20 16
+ Proc   0 numMeshes(x,y,z)  20 16 13
+
+ Final  step of damage accumulation
+ Time   99.999999999999986      totCycles        1568 CurrTau  0.40749601406341185      dt_kmc   6.1785153979057537E-005
+ DPA   4.5456772464418812E-005 DPA_low   1.4015845752657877E-005 Cascade                493805.00000000000      runTime   898.8225471830001     
+ commTime1   65.493340082997307      commTime2   122.501345167997982     
+
+
+ Deallocating defects and reactions
+ Deallocating memory: local meshes and ghost meshes
+ run time   898.8225471830001     
+ communication time   234.70901688199584     
+ allresuce time   46.150830085000194     
+ numCasTime   0.0000000000000000      casComm time  0.56350154600034585     
+ pointComm time   187.99468525099530     
+ commTime11   0.0000000000000000      commTime12   65.493340082997307      commTime21   66.990390076999319      commTime22   55.510955090998664     
+ commCount_1           0
+ number of boundary events    10893240
