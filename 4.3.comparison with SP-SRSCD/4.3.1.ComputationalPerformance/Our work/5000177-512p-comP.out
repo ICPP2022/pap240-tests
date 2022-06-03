@@ -1,0 +1,28 @@
+/opt/gridview/slurm/spool_slurmd/job5000177/slurm_script: line 10: /opt/hpc/software/mpi/hpcx/v2.4.0/hpcx-mt-init.sh: No such file or directory
+/opt/gridview/slurm/spool_slurmd/job5000177/slurm_script: line 11: hpcx_load: command not found
+ Proc division   8  8  8
+ Proc   0 numMeshes(x,y,z)   6  6  6
+
+ Deallocating defects and reactions
+ Deallocating memory: local meshes and ghost meshes
+ run time   3034.3745271439998     
+ communication time   2880.4230938465585     
+ allresuce time   728.36061136907938     
+ numCasTime   0.0000000000000000      casComm time   0.0000000000000000     
+ pointComm time   2152.0624824774791     
+ commTime11   983.39930625980128      commTime12   227.40299597584553      commTime21   940.59902253983432      commTime22  0.66115770199788626     
+ commCount_1     8235768
+ number of boundary events     3337678
+ Proc division   8  8  8
+ Proc   0 numMeshes(x,y,z)   6  6  6
+
+ Deallocating defects and reactions
+ Deallocating memory: local meshes and ghost meshes
+ run time   2914.3618377710000     
+ communication time   2759.3217067783858     
+ allresuce time   695.92533042405705     
+ numCasTime   0.0000000000000000      casComm time   0.0000000000000000     
+ pointComm time   2063.3963763543288     
+ commTime11   929.62060001847522      commTime12   234.93159030026911      commTime21   898.28510351457669      commTime22  0.55908252100791023     
+ commCount_1     7980960
+ number of boundary events     3341685

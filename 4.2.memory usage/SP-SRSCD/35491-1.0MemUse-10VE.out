@@ -1,0 +1,125 @@
+ proc division           2           2           2
+ numx numy numz          20          20          20
+ CuEverMesh        1137
+ Initial number of V           0
+ Initial number of SIA           0
+ Equilibrium concentration of V   4.8988430418434622E-015
+ Equilibrium concentration of SIA   3.4843867076532943E-039
+ totalRate   47682285.082385562     
+
+ time   5.0000020231775771E-002 DPA   0.0000000000000000      steps               961624 AverageTimeStep   5.1995395530660398E-008
+ FrenkelPairs   0.0000000000000000      computationTime   78.1894913    
+ eveDef   5272.7500000000000      eveSink   0.0000000000000000      eveDiss   4272.7500000000000      eveDiff   2951.3750000000000      eveClu   5272.7500000000000     
+
+
+ time  0.10000002397529907      DPA   0.0000000000000000      steps              1586038 AverageTimeStep   6.3050206852105105E-008
+ FrenkelPairs   0.0000000000000000      computationTime   137.379715    
+ eveDef   6240.3750000000000      eveSink   0.0000000000000000      eveDiss   5240.3750000000000      eveDiff   2948.3750000000000      eveClu   6240.3750000000000     
+
+
+ time  0.20000008954522391      DPA   0.0000000000000000      steps              2670139 AverageTimeStep   7.4902501160135823E-008
+ FrenkelPairs   0.0000000000000000      computationTime   249.614227    
+ eveDef   7667.5000000000000      eveSink   0.0000000000000000      eveDiss   6667.5000000000000      eveDiff   2947.3750000000000      eveClu   7667.5000000000000     
+
+
+ time  0.40000004590171184      DPA   0.0000000000000000      steps              4490952 AverageTimeStep   8.9067985118013248E-008
+ FrenkelPairs   0.0000000000000000      computationTime   466.853241    
+ eveDef   9825.8750000000000      eveSink   0.0000000000000000      eveDiss   8825.8750000000000      eveDiff   2949.0000000000000      eveClu   9825.8750000000000     
+
+
+ time  0.80000007100123594      DPA   0.0000000000000000      steps              7386935 AverageTimeStep   1.0829932455087745E-007
+ FrenkelPairs   0.0000000000000000      computationTime   890.173706    
+ eveDef   13184.125000000000      eveSink   0.0000000000000000      eveDiss   12184.125000000000      eveDiff   2947.6250000000000      eveClu   13184.125000000000     
+
+
+ time   1.6000000287923020      DPA   7.3643276134375011E-009 steps             11599716 AverageTimeStep   1.3793441397981657E-007
+ FrenkelPairs   5.0000000000000000      computationTime   1706.69714    
+ eveDef   18371.875000000000      eveSink   0.0000000000000000      eveDiss   17372.250000000000      eveDiff   2941.1250000000000      eveClu   18371.875000000000     
+
+
+ time   3.2000000404263007      DPA   7.3643276134375011E-009 steps             16121261 AverageTimeStep   1.9849564127932058E-007
+ FrenkelPairs   5.0000000000000000      computationTime   2965.32471    
+ eveDef   25239.500000000000      eveSink  0.12500000000000000      eveDiss   24239.625000000000      eveDiff   2932.5000000000000      eveClu   25242.625000000000     
+
+
+ time   6.4000019472380920      DPA   1.7674386272250002E-008 steps             19353340 AverageTimeStep   3.3069237388678604E-007
+ FrenkelPairs   12.000000000000000      computationTime   4170.49170    
+ eveDef   27981.625000000000      eveSink   0.0000000000000000      eveDiss   26982.500000000000      eveDiff   2899.0000000000000      eveClu   27981.625000000000     
+
+
+ time   12.800000879509113      DPA   3.2403041499125002E-008 steps             21796873 AverageTimeStep   5.8724023760238974E-007
+ FrenkelPairs   22.000000000000000      computationTime   5161.71094    
+ eveDef   28058.250000000000      eveSink   0.0000000000000000      eveDiss   27058.750000000000      eveDiff   2878.6250000000000      eveClu   28058.250000000000     
+
+
+ time   25.600006956289050      DPA   5.1550293294062508E-008 steps             24735927 AverageTimeStep   1.0349321841178239E-006
+ FrenkelPairs   35.000000000000000      computationTime   6321.92578    
+ eveDef   26253.125000000000      eveSink   0.0000000000000000      eveDiss   25254.250000000000      eveDiff   2853.1250000000000      eveClu   26253.125000000000     
+
+
+ time   51.200000143504276      DPA   1.0457345211081252E-007 steps             28487577 AverageTimeStep   1.7972746556684788E-006
+ FrenkelPairs   71.000000000000000      computationTime   7604.83936    
+ eveDef   22597.000000000000      eveSink  0.12500000000000000      eveDiss   21598.375000000000      eveDiff   2832.7500000000000      eveClu   22599.500000000000     
+
+
+ time   102.40000375167909      DPA   2.0620117317625003E-007 steps             33108962 AverageTimeStep   3.0928183055596576E-006
+ FrenkelPairs   140.00000000000000      computationTime   8884.00684    
+ eveDef   18070.125000000000      eveSink  0.37500000000000000      eveDiss   17071.125000000000      eveDiff   2801.7500000000000      eveClu   18076.750000000000     
+
+
+ time   204.80001372104388      DPA   3.9914655664831253E-007 steps             38997548 AverageTimeStep   5.2516125814126537E-006
+ FrenkelPairs   271.00000000000000      computationTime   10117.6162    
+ eveDef   13662.750000000000      eveSink   0.0000000000000000      eveDiss   12665.750000000000      eveDiff   2772.0000000000000      eveClu   13662.750000000000     
+
+
+ time   409.60003499551652      DPA   7.8798305463781259E-007 steps             46523447 AverageTimeStep   8.8041635220089463E-006
+ FrenkelPairs   535.00000000000000      computationTime   11316.9131    
+ eveDef   9921.2500000000000      eveSink  0.62500000000000000      eveDiss   8924.6250000000000      eveDiff   2742.3750000000000      eveClu   9926.2500000000000     
+
+
+ time   819.20002129969578      DPA   1.5892218989798128E-006 steps             56220404 AverageTimeStep   1.4571222599177619E-005
+ FrenkelPairs   1079.0000000000000      computationTime   12529.2275    
+ eveDef   7089.8750000000000      eveSink  0.87500000000000000      eveDiss   6094.3750000000000      eveDiff   2680.2500000000000      eveClu   7094.6250000000000     
+
+
+ time   1638.4000720321358      DPA   3.2270483602083128E-006 steps             69111278 AverageTimeStep   2.3706696207124628E-005
+ FrenkelPairs   2191.0000000000000      computationTime   13851.2510    
+ eveDef   5028.7500000000000      eveSink  0.62500000000000000      eveDiss   4036.0000000000000      eveDiff   2626.3750000000000      eveClu   5031.0000000000000     
+
+
+ time   3276.8000538739184      DPA   6.5468872483459387E-006 steps             86327452 AverageTimeStep   3.7957798799319573E-005
+ FrenkelPairs   4445.0000000000000      computationTime   15371.0625    
+ eveDef   3614.3750000000000      eveSink  0.12500000000000000      eveDiss   2625.2500000000000      eveDiff   2570.0000000000000      eveClu   3614.6250000000000     
+
+
+ time   6553.6001250190329      DPA   1.3133541865804440E-005 steps            110435837 AverageTimeStep   5.9343056593296189E-005
+ FrenkelPairs   8917.0000000000000      computationTime   17277.3672    
+ eveDef   2694.0000000000000      eveSink   0.0000000000000000      eveDiss   1709.0000000000000      eveDiff   2496.8750000000000      eveClu   2693.8750000000000     
+
+
+ time   13107.200256765142      DPA   2.6299486773108004E-005 steps            145664644 AverageTimeStep   8.9982029247709147E-005
+ FrenkelPairs   17856.000000000000      computationTime   19868.6211    
+ eveDef   2110.1250000000000      eveSink  0.25000000000000000      eveDiss   1129.2500000000000      eveDiff   2424.2500000000000      eveClu   2110.0000000000000     
+
+
+ time   26214.400131233593      DPA   5.2780136005506573E-005 steps            200594344 AverageTimeStep   1.3068364545330149E-004
+ FrenkelPairs   35835.000000000000      computationTime   23736.9258    
+ eveDef   1771.3750000000000      eveSink   0.0000000000000000      eveDiss   797.25000000000000      eveDiff   2336.0000000000000      eveClu   1770.7500000000000     
+
+
+ time   52428.800270552580      DPA   1.0511252089211614E-004 steps            290257193 AverageTimeStep   1.8062877177535641E-004
+ FrenkelPairs   71366.000000000000      computationTime   29929.1992    
+ eveDef   1488.0000000000000      eveSink  0.12500000000000000      eveDiss   520.50000000000000      eveDiff   2219.7500000000000      eveClu   1486.8750000000000     
+
+
+ Final  step
+ time   100000.00013550672      DPA   2.0006374254321122E-004 steps            425533211 AverageTimeStep   2.3499928454586997E-004
+ FrenkelPairs   135833.00000000000      computationTime   39166.8672    
+ eveDef   1301.5000000000000      eveSink  0.12500000000000000      eveDiss   340.87500000000000      eveDiff   2053.8750000000000      eveClu   1300.2500000000000     
+
+ run time   39169.984069824219     
+ communication time   15237.039903402328     
+ allresuce time   7165.4464159011841     
+ cascade communicate time   0.0000000000000000     
+ other communicate time   8071.5934875011444     
+ Deallocating memory

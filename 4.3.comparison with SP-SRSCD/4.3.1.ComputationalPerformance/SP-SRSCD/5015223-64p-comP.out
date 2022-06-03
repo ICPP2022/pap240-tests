@@ -1,0 +1,25 @@
+/opt/gridview/slurm/spool_slurmd/job5015223/slurm_script: line 10: /opt/hpc/software/mpi/hpcx/v2.4.0/hpcx-mt-init.sh: No such file or directory
+/opt/gridview/slurm/spool_slurmd/job5015223/slurm_script: line 11: hpcx_load: command not found
+ proc division           4           4           4
+ numx numy numz          48          48          48
+ CuEverMesh        1137
+ Initial number of V           0
+ Initial number of SIA           0
+ Equilibrium concentration of V   4.8988430418434622E-015
+ Equilibrium concentration of SIA   3.4843867076532943E-039
+ totalRate   82394988.622361809     
+ run time   20322.456434129999     
+ communication time   12289.014169716293     
+ allresuce time   8366.0686677058675     
+ cascade communicate time   0.0000000000000000     
+ other communicate time   3922.9455020104247     
+ Deallocating memory
+ proc division           4           4           4
+ numx numy numz          48          48          48
+ CuEverMesh        1137
+ Initial number of V           0
+ Initial number of SIA           0
+ Equilibrium concentration of V   4.8988430418434622E-015
+ Equilibrium concentration of SIA   3.4843867076532943E-039
+ totalRate   82394988.622361809     
+slurmstepd: error: *** JOB 5015223 ON f02r2n12 CANCELLED AT 2022-03-17T16:20:51 ***

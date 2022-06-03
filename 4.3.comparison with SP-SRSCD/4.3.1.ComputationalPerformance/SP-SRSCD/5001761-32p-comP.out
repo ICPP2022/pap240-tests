@@ -1,0 +1,23 @@
+ proc division           4           4           2
+ numx numy numz          48          48          48
+ CuEverMesh        1137
+ Initial number of V           0
+ Initial number of SIA           0
+ Equilibrium concentration of V   4.8988430418434622E-015
+ Equilibrium concentration of SIA   3.4843867076532943E-039
+ totalRate   164789977.24471346     
+ run time   32704.731641457001     
+ communication time   15186.494762574948     
+ allresuce time   10261.352680649798     
+ cascade communicate time   0.0000000000000000     
+ other communicate time   4925.1420819251507     
+ Deallocating memory
+ proc division           4           4           2
+ numx numy numz          48          48          48
+ CuEverMesh        1137
+ Initial number of V           0
+ Initial number of SIA           0
+ Equilibrium concentration of V   4.8988430418434622E-015
+ Equilibrium concentration of SIA   3.4843867076532943E-039
+ totalRate   164789977.24471346     
+slurmstepd: error: *** JOB 5001761 ON f10r1n00 CANCELLED AT 2022-03-17T09:24:09 ***

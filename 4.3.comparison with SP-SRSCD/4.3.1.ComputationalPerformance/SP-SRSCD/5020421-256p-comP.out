@@ -1,0 +1,16 @@
+/opt/gridview/slurm/spool_slurmd/job5020421/slurm_script: line 10: /opt/hpc/software/mpi/hpcx/v2.4.0/hpcx-mt-init.sh: No such file or directory
+/opt/gridview/slurm/spool_slurmd/job5020421/slurm_script: line 11: hpcx_load: command not found
+ proc division           8           8           4
+ numx numy numz          48          48          48
+ CuEverMesh        1137
+ Initial number of V           0
+ Initial number of SIA           0
+ Equilibrium concentration of V   4.8988430418434622E-015
+ Equilibrium concentration of SIA   3.4843867076532943E-039
+ totalRate   20598747.155590918     
+ run time   18076.481484399999     
+ communication time   16246.392970242696     
+ allresuce time   12173.785314874522     
+ cascade communicate time   0.0000000000000000     
+ other communicate time   4072.6076553681742     
+ Deallocating memory
